@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1d0c4986-996a-4b27-aacf-9a2445990e20",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Polizist": {
+      "ver": "1.0.3",
+      "uuid": "4bff2fd2-5f0c-4050-94da-55954e584089",
+      "rawTextureUuid": "1d0c4986-996a-4b27-aacf-9a2445990e20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0.5,
+      "trimX": 16,
+      "trimY": 5,
+      "width": 32,
+      "height": 63,
+      "rawWidth": 62,
+      "rawHeight": 74,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

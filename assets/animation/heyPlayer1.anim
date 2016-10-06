@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "heyPlayer1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fcd7f2b8-b60b-4bbb-b9cd-93f6626404b6"
+            }
+          },
+          {
+            "frame": 0.9833333333333333,
+            "value": {
+              "__uuid__": "bd73e024-b96a-4a75-8e94-b39365baa8bc"
+            }
+          },
+          {
+            "frame": 1.5833333333333333,
+            "value": {
+              "__uuid__": "fcd7f2b8-b60b-4bbb-b9cd-93f6626404b6"
+            }
+          },
+          {
+            "frame": 2.2333333333333334,
+            "value": {
+              "__uuid__": "bd73e024-b96a-4a75-8e94-b39365baa8bc"
+            }
+          },
+          {
+            "frame": 2.9833333333333334,
+            "value": {
+              "__uuid__": "fcd7f2b8-b60b-4bbb-b9cd-93f6626404b6"
+            }
+          }
+        ]
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

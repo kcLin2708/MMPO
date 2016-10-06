@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d793fc09-1c3e-4f75-9bc8-3e09c188484e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Blood_Sport": {
+      "ver": "1.0.3",
+      "uuid": "b6b939de-b075-4b84-8fe3-1f0aabd9e434",
+      "rawTextureUuid": "d793fc09-1c3e-4f75-9bc8-3e09c188484e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2880,
+      "height": 3793,
+      "rawWidth": 2880,
+      "rawHeight": 3793,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
